@@ -278,7 +278,3 @@ If you use this system in your research, please cite both the original paper and
   note={Implementation based on Xue Yu's ICDSNS 2024 paper}
 }
 ```
-
-## Contact
-
-For questions, issues, or contributions, please open an issue on GitHub or contact [your-email@example.com].
