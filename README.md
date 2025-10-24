@@ -40,7 +40,7 @@ The system implements the key defense strategies discussed in the paper, includi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/serkankahveci/AI-Security-System.git
 cd ai-security-system
 ```
 
